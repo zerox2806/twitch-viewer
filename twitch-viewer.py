@@ -22,7 +22,7 @@ import multiprocessing
 import time
 import random
 
-channel_url = "twitch.tv/"
+channel_url = "twitch.tv/zerox26"
 processes = []
 
 
